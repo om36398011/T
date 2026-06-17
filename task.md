@@ -1,0 +1,14 @@
+- [ ] Scaffold folder structure (already created files)
+- [ ] Implement main.js (SPA router, sidebar toggle, overlay handling, AOS init)
+- [ ] Implement navigation.js (page transition logic)
+- [ ] Implement charts.js (Chart.js wrappers with dummy data)
+- [ ] Implement dashboard.js (load KPI cards, counters, world map placeholder)
+- [ ] Create HTML fragments for each page (dashboard, tradeoff, sector, trend, scenario) in `pages/` directory
+- [ ] Wire up navigation links to load fragments via SPA
+- [ ] Add overlay panels (filter, food production, etc.) with animation
+- [ ] Add notification and profile panels
+- [ ] Ensure responsive behavior and mobile drawer
+- [ ] Add accessibility features (keyboard nav, focus states, ARIA)
+- [ ] Polish animations, particle background, skeleton loading
+- [ ] Test across breakpoints, run Lighthouse audit
+- [ ] Final documentation and SEO meta tags
